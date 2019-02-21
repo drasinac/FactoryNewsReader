@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="news_recycler_view" type="id"></item>
+    <item name="progress_bar" type="id"></item>
+    <item name="news_item_layout" type="id"></item>
+    <item name="imageview" type="id"></item>
+    <item name="title_textview" type="id"></item>
+    <item name="description_textview" type="id"></item>
+    <item name="viewpager" type="id"></item>
+    <item name="progress_bar_webview" type="id"></item>
+    <item name="error_textview" type="id"></item>
+    <item name="article_textview" type="id"></item>
+
+
+
+
+
+</resources>
